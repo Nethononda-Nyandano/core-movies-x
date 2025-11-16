@@ -1,6 +1,6 @@
 # Movie App (Frontend Only)
 
-![Banner](./assets/banner.png)
+![Banner](.src/assets/banner.png)
 
 This movie app is a **frontend application** where users can discover, explore, and track movies and TV shows. It is built using **React**, **Tailwind CSS**, and fetches movie data from the **TMDB API**. Users can browse popular titles, search for films, view trailers, read summaries, and check ratings.
 
