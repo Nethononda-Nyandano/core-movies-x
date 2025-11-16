@@ -30,7 +30,7 @@ This movie app is a **frontend application** where users can discover, explore, 
 - Dynamically render movie lists, ratings, and search results.  
 - Implement interactive components like movie cards, search bars, and rating stars.
 
-![Search Feature](./assets/search-feature.png)
+![Search Feature](.src/assets/s.png)
 
 ### State Management
 - Manage app state for watchlists, favorites, or search filters.  
