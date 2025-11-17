@@ -61,7 +61,7 @@ This project is an excellent way for beginners to learn **React, Tailwind CSS, a
 
 ## Author
 
-**Your Name**  
+**Nethononda Nyandano**  
 Frontend Developer  
 
 - **GitHub:** [https://github.com/Nethononda-Nyandano](https://github.com/Nethononda-Nyandano)  
